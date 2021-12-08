@@ -26,10 +26,10 @@ senha: 12345678
 
 ## Bibliotecas e Frameworks
 * React
-* React Router Dom
+* React Router Dom - devido a mudança na versão, utilizar comando npm install react-router-dom@5.2.0
 * Axios
 * styled-components
-* Material-UI
+* Material-UI - devido a mudança na versão, utilizar comandos npm install @material-ui/core @material-ui/icons @types/material-ui
 
 
 *Desenvolvido com muito esforço por Germana Etges*
